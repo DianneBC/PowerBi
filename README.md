@@ -1,4 +1,5 @@
 # PowerBi
+https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!pXdbMgrTU0KuLIVuBMLijiJVPu9U0yNKsemtphpdhrIxG7hhzqxLRrPBTAMPC0sc&itemId=01MRFXCXCQXB4PY3OEGFFJFRJGKF6A4BO3
 
 This project features an interactive Power BI dashboard built from a sales dataset, designed to visualize key performance metrics and uncover business insights. It includes four distinct visualizations:
 
