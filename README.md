@@ -5,7 +5,7 @@ This project features an interactive Power BI dashboard built from a sales datas
 
 Profit by Country (Filled Map)  :
 
-![image](https://github.com/user-attachments/assets/93a19540-2de7-4dd7-ade8-aff8dcde35d4)
+![image](https://github.com/user-attachments/assets/09301b65-d9ef-4628-8d6e-851dbf6c1b6d)
 
 Sales and Profit Over Time (Line Chart)
 
