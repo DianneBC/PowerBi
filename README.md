@@ -12,9 +12,12 @@ Sales and Profit Over Time (Line Chart):
 ![image](https://github.com/user-attachments/assets/fc419909-c632-4e58-86f5-a87692423dd1)
 
 
-Total Sales by Category (Stacked Bar Chart)
+Total Sales by Category (Stacked Bar Chart):
 
-Average Profit by Ship Mode and Region (Stacked Column Chart)
+![image](https://github.com/user-attachments/assets/1ee024b8-5f81-4589-8b76-1b03794ac3e0)
+
+
+Average Profit by Ship Mode and Region (Stacked Column Chart):
 
 The dashboard supports dynamic highlighting and filtering by profit, sales, country, segment, category, and product, offering a user-friendly interface for intuitive data exploration and decision-making.
 
