@@ -7,7 +7,10 @@ Profit by Country (Filled Map)  :
 
 ![image](https://github.com/user-attachments/assets/09301b65-d9ef-4628-8d6e-851dbf6c1b6d)
 
-Sales and Profit Over Time (Line Chart)
+Sales and Profit Over Time (Line Chart):
+
+![image](https://github.com/user-attachments/assets/fc419909-c632-4e58-86f5-a87692423dd1)
+
 
 Total Sales by Category (Stacked Bar Chart)
 
