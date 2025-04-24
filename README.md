@@ -19,6 +19,9 @@ Total Sales by Category (Stacked Bar Chart):
 
 Average Profit by Ship Mode and Region (Stacked Column Chart):
 
+![image](https://github.com/user-attachments/assets/5cbde21f-9af2-4c6d-aa4e-a1ed7b808985)
+
+
 The dashboard supports dynamic highlighting and filtering by profit, sales, country, segment, category, and product, offering a user-friendly interface for intuitive data exploration and decision-making.
 
 
